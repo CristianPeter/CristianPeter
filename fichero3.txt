@@ -1,2 +1,2 @@
 Este es el fichero3 creado en local.
-Línea nueva de remoto
+Línea nueva de local

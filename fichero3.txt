@@ -1,2 +1,6 @@
 Este es el fichero3 creado en local.
+<<<<<<< HEAD
 Línea nueva de local
+=======
+Línea nueva de local
+>>>>>>> bb381d4f76f6e9f7051a9b027e56567b2cc7975f
